@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: starinfo
+Build-Jdk: 17.0.4
+Implementation-Title: examen-Assurance-S2
+Implementation-Version: 1.0
+Implementation-Vendor-Id: tn.esprit.spring
+Implementation-URL: https://spring.io/projects/spring-boot/examen-Assura
+ nce-S2
+Created-By: Maven Integration for Eclipse
+
